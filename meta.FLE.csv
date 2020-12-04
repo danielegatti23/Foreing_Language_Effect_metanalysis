@@ -1,0 +1,48 @@
+Year;Authors;Exp.n;ES;var;FL;NL;N;Domain;proficiency;group
+2014;Costa et al., 2014 b;1;0,3;0,04;Spanish;English;112;moral;57;Different
+2014;Costa et al., 2014 b;2;0,26;0,05;English;Korean;80;moral;57;Different
+2014;Costa et al., 2014 b;3;0,22;0,04;French;English;107;moral;57;Different
+2014;Costa et al., 2014 b;4;0,95;0,27;Hebrew;English / Spanish;18;moral;57;Different
+2014;Costa et al., 2014 b;5;0,52;0,01;Spanish;English;328;moral;77,92;Different
+2014;Costa et al., 2014 b;6;0,64;0,01;English;Spanish;397;moral;80,83;Different
+2015;Geipel et al., 2015 b;7;0,63;0,04;English / German;Italian;105;moral;71,2;Different
+2015;Geipel et al., 2015 b;8;0,33;0,03;English;Chinese;152;moral;63;Different
+2015;Geipel et al., 2015 b;9;0,4;0,06;English;German;72;moral;81;Similar
+2016;Chan et al., 2016;10;0,5;0,03;English;Chinese;144;moral;65,6;Different
+2017;Corey et al., 2017;11;0,54;0,02;English;Spanish;211;moral;72,14;Different
+2017;Corey et al., 2017;12;0,3;0,02;English;Spanish;173;moral;67,14;Different
+2017;Corey et al., 2017;13;0,34;0,01;English;Spanish;399;moral;72,5;Different
+2017;Corey et al., 2017;14;0,24;0,02;English;Spanish;202;moral;64,64;Different
+2017;Corey et al., 2017;15;0,38;0,02;English;Spanish;190;moral;66,79;Different
+2017;Corey et al., 2017;16;0,06;0,02;English;Spanish;201;moral;72,5;Different
+2017;Corey et al., 2017;17;0,15;0,02;English;Spanish;223;moral;73,93;Different
+2017;Corey et al., 2017;18;0,34;0,02;English;Spanish;197;moral;67,14;Different
+2017;Hayakawa et al., 2017 a;19;-0,21;0,02;English;German;214;moral;71;Similar
+2017;Hayakawa et al., 2017 a;20;0,12;0,02;Spanish;English;242;moral;75,57;Different
+2017;Hayakawa et al., 2017 a;21;0,2;0,02;English;Spanish;195;moral;77,14;Similar
+2017;Hayakawa et al., 2017 a;22;-0,04;0,02;English;German;211;moral;69,14;Similar
+2017;Hayakawa et al., 2017 a;23;-0,24;0,02;English;German;209;moral;74,14;Similar
+2017;Hayakawa et al., 2017 a;24;0,08;0,02;German;English;161;moral;73,86;Similar
+2018;Muda et al., 2018;25;-0,2;0,03;English;Polish;140;moral;69,2;Different
+2017;Shin & Kim, 2017;26;0,62;0,02;English;Korean;161;moral;43,8;Different
+2018;Hayakawa et al., 2018;27;0,14;0,01;English;German;800;moral;71,43;Similar
+2019;Bialek et al., 2019;28;-0,08;0,02;English;Polish;204;moral;81,9;Different
+2019;Bialek et al., 2019;29;-0,11;0,03;German;Polish;138;moral;71,7;Different
+2019;Bialek et al., 2019;30;0,12;0,03;Spanish;Polish;163;moral;55,4;Different
+2019;Bialek et al., 2019;31;0,29;0,03;French;Polish;129;moral;64,4;Different
+2019;Brouwer, 2019;32;0,06;0,07;English;Dutch;60;moral;74;Similar
+2019;Brouwer, 2019;33;0,45;0,07;English;Dutch;60;moral;71,4;Similar
+2020;Brouwer, 2020;34;0,28;0,03;English;Dutch;154;moral;80,4;Similar
+2020;Dylman et al., 2020;35;0,13;0,02;English;Swedish;198;moral;76,2;Similar
+2020;Dylman et al., 2020;36;0,45;0,02;French;Swedish;175;moral;46,2;Different
+2020;Dylman et al., 2020;37;0,07;0,01;Norvegian;Swedish;305;moral;51,4;Similar
+2020;Dylman et al., 2020;38;-0,06;0,01;Swedish;Norvegian;295;moral;62,2;Similar
+2012;Keysar, et al., 2012;39;0,44;0,03;English;Korean;146;risk;44;
+2012;Keysar, et al., 2012;40;0,55;0,07;Spanish;English;54;risk;63,33;
+2014;Costa et al., 2014 a;41;0,23;0,01;English;Spanish;300;risk;68,57;
+2014;Costa et al., 2014 a;42;0,3;0,02;English;Spanish;245;risk;71,43;
+2015;Hadjichristidis et al., 2015;43;0,42;0,04;English;Italian;92;risk;82;
+2015;Hadjichristidis et al., 2015;44;0,46;0,03;English;Italian;123;risk;80;
+2016;Winskel et al., 2016;45;0,05;0,1;English;Thai;40;risk;61,43;
+2017;Hayakawa et al., 2017 b;46;0,15;0,03;English;Chinese;155;risk;52,86;
+2017;Hayakawa et al., 2017 b;47;0,07;0,04;Spanish;English;97;risk;68,57;
